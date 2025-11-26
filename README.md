@@ -16,7 +16,7 @@ Relearning Webpack after happy months without it. Most of it is nebulous at best
 
 ### Live
 
-<a href='https://erreurdesyntaxe.github.io/full-stack-restaurant-redo/'>Restaurant: Chez Xavier</a>
+<a href='https://erreurdesyntaxe.github.io/restaurant-redo/'>Restaurant: Chez Xavier</a>
 
 ### Objective
 
